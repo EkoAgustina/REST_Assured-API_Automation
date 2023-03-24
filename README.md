@@ -1,4 +1,4 @@
-<h1 align="center">Web Automation</h1>
+<h1 align="center">API Automation with REST Assured</h1>
 <p align="center">
      <a>
         <img alt="Selenium" src="https://i.imgur.com/ZwNTLcK.png" width="400">
