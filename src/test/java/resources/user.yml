@@ -1,0 +1,13 @@
+validAccount:
+   username: "dm1"
+   password: "123"
+
+invalidAccount:
+   username: "User invalid"
+   password: "123456P"
+
+newAccount:
+   nama_lengkap: "New Dummy api"
+   alamat_lengkap: "Village"
+   username: "newAPi"
+   password: "12345"
